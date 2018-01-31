@@ -1,7 +1,7 @@
 
 {
   "name": "rect-guides",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Guides like the sketch app.",
   "main": "src/index.js",
   "scripts": {
