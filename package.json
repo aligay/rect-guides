@@ -1,7 +1,7 @@
 {
   "name": "rect-guides",
-  "version": "0.0.1",
-  "description": "Guides like the sketch app. Edit",
+  "version": "0.0.2",
+  "description": "Guides like the sketch app.",
   "main": "src/index.js",
   "scripts": {
     "clean": "rimraf src/**/*.{js,map} test/**/*.{js,map} config/**/*.{js,map}",
@@ -20,12 +20,7 @@
     "tslib": "^1.8.1",
     "tslint": "^5.9.1",
     "tslint-config-standard": "^7.0.0",
-    "typescript": "^2.6.1"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
-  },
-  "dependencies": {
+    "typescript": "^2.6.1",
     "_ansi-regex@2.1.1@ansi-regex": "^2.1.1",
     "_ansi-styles@3.2.0@ansi-styles": "^3.2.0",
     "_ansi-styles@2.2.1@ansi-styles": "^2.2.1",
@@ -128,7 +123,9 @@
     "photoshop",
     "guides",
     "sketch",
-    "guides"
+    "guides",
+    "attraction",
+    "Reference line"
   ],
   "author": "linkjun",
   "bugs": {
